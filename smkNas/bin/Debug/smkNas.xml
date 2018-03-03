@@ -1,0 +1,271 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+smkNas
+</name>
+</assembly>
+<members>
+<member name="T:smkNas.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:smkNas.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:smkNas.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.jadwalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.jawabanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.jurusanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.nilaiDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.pesertaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.ruanganDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.soalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.staffDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.View_JadwalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.View_KoreksiDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.jadwalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.jawabanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.jurusanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.nilaiRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.pesertaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.ruanganRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.soalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.staffRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.View_JadwalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.View_KoreksiRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.jadwalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.jawabanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.jurusanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.nilaiRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.pesertaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.ruanganRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.soalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.staffRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.View_JadwalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSet.View_KoreksiRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSetTableAdapters.jadwalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSetTableAdapters.jawabanTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSetTableAdapters.jurusanTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSetTableAdapters.nilaiTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSetTableAdapters.pesertaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSetTableAdapters.ruanganTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSetTableAdapters.soalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSetTableAdapters.staffTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSetTableAdapters.View_JadwalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSetTableAdapters.View_KoreksiTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:smkNas.smkNasDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(smkNas.smkNasDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:smkNas.smkNasDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(smkNas.smkNasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:smkNas.smkNasDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(smkNas.smkNasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:smkNas.smkNasDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:smkNas.smkNasDataSetTableAdapters.TableAdapterManager.UpdateAll(smkNas.smkNasDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:smkNas.smkNasDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
